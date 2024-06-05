@@ -2,6 +2,8 @@
 
 ![Medical Imaging AI](https://github.com/Dr-WebAI/.github/blob/main/Banner.png)
 
+## Status :- OFFLINE [UNDER DEVELOPMENT]
+
 ## Overview
 
 Introducing Dr.WebAI, a cutting-edge solution revolutionizing medical diagnostics. Powered by state-of-the-art artificial intelligence algorithms, Dr.WebAI is meticulously designed to assist healthcare professionals in extracting comprehensive insights from medical imaging reports, including CT scans, MRI images, and X-rays. By harnessing advanced machine learning techniques, Dr.WebAI streamlines the analysis process, offering accurate and timely assessments to support informed decision-making. With its intuitive interface and unparalleled accuracy, Dr.WebAI is poised to redefine the landscape of medical imaging interpretation, enhancing diagnostic precision and patient care.
